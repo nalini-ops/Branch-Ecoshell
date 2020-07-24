@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "hello, today is $(date)"
-echo "Triggering a new build"
+echo "This is a Shell Script and needs to be run on a Linux Agent!!"
+echo "Hello, today is $(date)"
